@@ -23,17 +23,18 @@ Gnache
 ## Results
 Streamlit Fintech Finder
 
-![](Screenshots\Record_block_Hash_on_Streamlit_Fintech_Finder.gif)
+![](https://github.com/zvahidy/Fintech-Finder/blob/main/Screenshots/Record_block_Hash_on_Streamlit_Fintech_Finder.gif)
 
 Ganache Remaining Balance after hiring Ash
-![](Screenshots\Gnache_remaining_balance.png)
+![](https://github.com/zvahidy/Fintech-Finder/blob/main/Screenshots/Gnache_remaining_balance.png)
 
 Ganache Remaining Balance after hiring Lane
-![](Screenshots\Gnache_remaining_balance_2.png)
+![](https://github.com/zvahidy/Fintech-Finder/blob/main/Screenshots/Gnache_remaining_balance_2.png)
 
 Ganache copy of transaction history 
-![](Screenshots\Gnache_hire_Ash_transaction.png)
-![](Screenshots\Gnache_hire_Lane_transaction.png)
+![](https://github.com/zvahidy/Fintech-Finder/blob/main/Screenshots/Gnache_hire_Ash_transaction.png)
+![](https://github.com/zvahidy/Fintech-Finder/blob/main/Screenshots/Gnache_hire_Lane_transaction.png)
+
 
 ## Contributors
 
